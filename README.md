@@ -14,7 +14,7 @@ $\textbf{Content}$: We will analyze tracking data from Irina Korshok's experimen
 
  The three parts are best done in order for a smooth experience, but they technically can be run independently. You could substitute any dataset you have in the tutorial, pending some small modifications to the code.
 
-$\textbf{Credits}$ Part 1 is an adaptation of a tutorial from BingKan Xue, PHZ4710 - Introduction to Biological Physics, University of Florida.  
+$\textbf{Credits}$: Part 1 is an adaptation of a tutorial from BingKan Xue, PHZ4710 - Introduction to Biological Physics, University of Florida.  
 The theoretical framework and code from Parts 2 and 3 are from Antonio C. Costa (École Normale Supérieure de Paris). All the functions for embedding and transition matrices are his as well. This work has been done under the supervision of Greg J. Stephens (Okinawa Institute of Science and Technology and Vrije Universiteit Amsterdam). 
 
 $\textbf{Contact Information}$: 
