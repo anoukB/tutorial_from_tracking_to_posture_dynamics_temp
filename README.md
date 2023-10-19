@@ -1,11 +1,11 @@
 # tutorial_from_posture_to_dynamics
 $\textit{Tutorial for quantitative analysis of tracking data from PCA to transition matrix clustering.}$
 
-Welcome ! 
+Welcome! 
 
 Thank you for being here. 
 
-$\textbf{Goal}$: This tutorial is about quantitative, dynamical systems-inspired analysis of tracking data. Rather than a complete, ready-made recipe for unsupervised behavior quantification, this pipeline aims at informed exploration of a dataset within a theoretical framework. We hope to be as explicit as possible about theoretical ideas, their practical implementation, and their underlying assumptions about the data. 
+$\textbf{Goal}$: This tutorial is about quantitative, dynamical systems-inspired analysis of tracking data. Rather than a complete, ready-made recipe for unsupervised behavior quantification, this pipeline aims at the informed exploration of a dataset within a theoretical framework. We hope to be as explicit as possible about theoretical ideas, their practical implementation, and their underlying assumptions about the data. 
 
 $\textbf{Content}$: We will analyze tracking data from Irina Korshok's experiment made at the Okinawa Institute of Science and Technology on a freely crawling Drosophila Melanogaster larva. The tutorial is split into three parts. 
 - Part 1- PCA: Dimensionality reduction of the dataset with principal component analysis.
@@ -15,7 +15,7 @@ $\textbf{Content}$: We will analyze tracking data from Irina Korshok's experimen
  The three parts are best done in order for a smooth experience, but they technically can be run independently. You could substitute any dataset you have in the tutorial, pending some small modifications to the code.
 
 $\textbf{Credits}$ Part 1 is an adaptation of a tutorial from BingKan Xue, PHZ4710 - Introduction to Biological Physics, University of Florida.  
-The theoretical framework and code from Part 2 and 3 are from Antonio C. Costa (École Normale Supérieure de Paris). All the functions for embedding and transition matrices are his as well. This work has been done under the supervision of Greg J. Stephens (Okinawa Institute of Science and Technology and Vrije Universiteit Amsterdam). 
+The theoretical framework and code from Parts 2 and 3 are from Antonio C. Costa (École Normale Supérieure de Paris). All the functions for embedding and transition matrices are his as well. This work has been done under the supervision of Greg J. Stephens (Okinawa Institute of Science and Technology and Vrije Universiteit Amsterdam). 
 
 $\textbf{Contact Information}$: 
 For any questions, you can email me at anouk.beraud@gmail.com. 
