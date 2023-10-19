@@ -44,7 +44,6 @@ Pictures and videos from the text:
 - vid_intro_state_space_Sugihara.mp4
 - vid_larva_experiment_Irina_Korshok.mp4
 - vid_phase_space_pendulum_Ghrist_Math.mp4
-- vid_Reconstructed_data.mp4
 - vid_Takens_thm_Sugihara.mp4
 - vid_tracked_larva_segments.mp4
 
